@@ -21,6 +21,8 @@ add_message_files(
   SensorState.msg
   VersionInfo.msg
   Sound.msg
+  CliffEvent.msg
+  BumperEvent.msg
 )
 
 generate_messages(
